@@ -1,17 +1,20 @@
 # AIRLINE-FINANCIAL-ECONOMICS-DASHBOARD
-Project Overview
-This project, developed as part of the DAEN 690 Capstone at George Mason University, focuses on building an Airline Financial Economics Dashboard in collaboration with the GMU Center for Air Transportation Systems Research (CATSR). The dashboard integrates financial data from the U.S. Department of Transportation’s Form 41 with stock price data for selected airlines to analyze financial trends and performance.
+## Project Overview
+The **Airline Financial Economics Dashboard** is a capstone project developed in collaboration with the **GMU Center for Air Transportation Systems Research (CATSR)** as part of the DAEN 690 Capstone at George Mason University. The dashboard integrates financial data from the U.S. Department of Transportation’s **Form 41** with stock price data for selected airlines to provide a comprehensive analysis of airline performance and market behavior.
 
-Features
-Automated Data Updates: Regular updates of Form 41 airline financial data and stock price information.
-Visualizations: Clear tables and charts to display financial metrics, stock price trends, and key operational indicators like load factor, revenue passenger-miles, and fuel efficiency.
-Trend Analysis: Utilizes machine learning and statistical models to identify correlations between airline performance metrics and stock prices.
-Data Sources
-Form 41 Data: Comprehensive financial and operational information from U.S. airlines.
-Stock Price Data: Includes stock data for publicly traded airlines.
-Project Structure
-/data: Contains raw data from Form 41 and stock prices.
-/scripts: Python scripts for data preprocessing, model training, and visualizations.
-/notebooks: Jupyter notebooks for data analysis and experimentation.
-/models: Trained machine learning models used for trend prediction.
-/visualizations: Generated charts and graphs.
+## Features
+- **Automated Data Updates**: Regularly updates airline financial and stock data.
+- **Interactive Visualizations**: Displays financial metrics, stock trends, and operational data through tables and charts.
+- **Trend Analysis**: Uses statistical and machine learning models to identify correlations between stock prices and airline financials.
+
+## Data Sources
+- **Form 41 Data**: Detailed financial and operational data for U.S. airlines.
+- **Stock Price Data**: Stock prices for publicly traded airlines.
+
+## License
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
+
+## Contact
+For more information, feel free to contact the project lead:
+
+### Vishal Orsu: vishalorsu@gmail.com
